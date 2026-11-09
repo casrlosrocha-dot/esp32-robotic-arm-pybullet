@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Arduino / PlatformIO
+build/
+.pio/
+# MATLAB
+*.asv
+# Proteus backups
+Project Backups/
+*.workspace
+# OS
+.DS_Store
+Thumbs.db
